@@ -4,7 +4,7 @@
 
 ### AXEL, 27 years, university student, Jakarta.
 
-![user persona Axel](/planning/img/personaalex.jpg)
+![user persona Axel](/planning/assets/personaalex.jpg)
 
 ### **Biography**
 
