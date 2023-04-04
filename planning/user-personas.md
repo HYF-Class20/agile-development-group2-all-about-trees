@@ -2,28 +2,15 @@
 
 ---
 
-## AXEL, 27 years, university student, Jakarta
+## University Student
 
 ![user persona Axel](/planning/assets/personaalex.jpg)
 
-### **Biography**
+### Interest
 
-- Name : AXEL john doe
-- Age : 27 years
-- Occupation : University Student
-- Current Location : Jakarta, Indonesia.
-
-Axel is a young sporty man from Jakarta. He is currently finishing his master
-degree in Biology in Universitas Indonesia. </br>
-
-### **Hobbies and interest**
-
-Axel spent his weekend mostly doing adventurous activity such as hiking,
-mountain climbing, and also cycling.
-
-He has a big interest in growth and development of Palm Trees. He is also
-concerned about the impact of deforestation on the country's biodiversity and
-ecosystems. </br>
+- Big interest in growth and development of Palm Trees. </br>
+- concerned about the impact of deforestation on the country's biodiversity and
+  ecosystems. </br>
 
 ### **Goals**
 
