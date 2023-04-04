@@ -34,19 +34,19 @@ How often will we get in touch on each channel, and what we will discuss there:
 
 </br>
 
-| Day        |     Monday      |     Tuesday     |    Wednesday    |    Thursday    |     Friday     | Saturday  | Sunday |
-| ---------- | :-------------: | :-------------: | :-------------: | :------------: | :------------: | :-------: | :----: | --- |
-| _Gabrella_ | 10 - 12 ; 18-24 | 10 - 12 ; 18-24 | 10 - 15 ; 18-24 | 10 - 15 ,18-01 | 10 - 15 ,20-21 |     x     |   x    |
-| _Ali_      |     17 - 22     |     17 - 22     |     17 - 22     |    17 - 22     |    17 - 22     |     x     |   x    |
-| _Cemal_    |    Whole day    |    Whole day    |    Whole day    |   Whole day    |   Whole day    |     x     |   x    |
-| _Mouhamed_ |    Whole day    |    Whole day    |    Whole day    |   Whole day    |   Whole day    | Whole day |   x    | x   |
-| _Gopi_     |      9-11       |      16-22      |      10-12      |       X        |     13-18      |     x     |   x    | x   |
+| Day      |    Monday     |    Tuesday    |   Wednesday   |   Thursday    |    Friday     | Saturday | Sunday |
+| -------- | :-----------: | :-----------: | :-----------: | :-----------: | :-----------: | :------: | :----: |
+| Gabrella | 10-12 ; 18-24 | 10-12 ; 18-24 | 10-15 ; 18-24 | 10-15 ; 18-01 | 10-15 ; 20-21 |    x     |   x    |
+| Ali      |    17 - 22    |    17 - 22    |    17 - 22    |    17 - 22    |    17 - 22    |    x     |   x    |
+| Cemal    |   Whole day   |   Whole day   |   Whole day   |   Whole day   |   Whole day   |    x     |   x    |
+| Mouhamed |   Whole day   |   Whole day   |   Whole day   |   Whole day   |   Whole day   |    x     |   x    |
+| Gopi     |     9-11      |     16-22     |     10-12     |       X       |     13-18     |    x     |   x    |
 
 ## How many hours everyone has per day in week 1
 
 - Ali: 5h
 - Gopi: 3h
-- Gabrella: 5 - 8h
+- Gabriella: 5 - 8h
 - Cemal: Whole day
 - Mouhamed: Whole day
 
