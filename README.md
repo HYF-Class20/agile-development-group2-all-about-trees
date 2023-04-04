@@ -9,7 +9,7 @@ exist.</br> </br> </br>
 
 ## TABLE OF CONTENT </br>
 
-We divided our project into several sections: </br>
+We divided our project into several sections: </br></br>
 [**CONSTRAINTS**](https://github.com/HYF-Class20/agile-development-group2-all-about-trees/blob/master/planning/constraints.md)
 </br> Here you can find our group rules. </br>
 [**COMMUNICATIONS**](https://github.com/HYF-Class20/agile-development-group2-all-about-trees/blob/master/planning/communication.md)
@@ -21,14 +21,14 @@ duration, meeting schedules, and so on. </br>
 think using their point of view. The imaginary audience comes with their
 interest in trees searching a way to find solution of their frustration to
 explaining people about trees and their important role in this nature. </br>
-[**BACKLOG**](https://github.com/HYF-Class20/agile-development-group2-all-about-trees/blob/master/planning/backlog.md)
+[**BACKLOG**](https://github.com/HYF-Class20/agile-development-group2-all-about-trees/blob/master/planning/backlog.md)</br>
 After creating user persona we can move forward thinking as the way they think.
 We picked and filtered their needs by categories; Must have, Should have, Could
 have. </br>
-[**DESIGN**](https://github.com/HYF-Class20/agile-development-group2-all-about-trees/blob/master/planning/design.md)
+[**DESIGN**](https://github.com/HYF-Class20/agile-development-group2-all-about-trees/blob/master/planning/design.md)</br>
 User persona done! Backlog done! Now we have their needs and priority! We use
 all of it as a base to design our website or _wireframe_. </br>
-[**DEVELOPMENT STRATEGY**](https://github.com/HYF-Class20/agile-development-group2-all-about-trees/blob/master/planning/development-strategy.md)
+[**DEVELOPMENT STRATEGY**](https://github.com/HYF-Class20/agile-development-group2-all-about-trees/blob/master/planning/development-strategy.md)</br>
 This section is based on backlog. A breakdown or explanation of our wireframe.
 </br>
 [**RETROSPECTIVE**](https://github.com/HYF-Class20/agile-development-group2-all-about-trees/blob/master/planning/retrospective.md)
@@ -125,4 +125,5 @@ Coming soon..
 - [Cemal Karalar](https://github.com/Cemalkaralar)
 - [Gopi Savani](https://github.com/Gopiben)
 - [Ali Ibrahim](https://github.com/Ibrahim86Ali)
+- [Mouhamed Alshlash](https://github.com/Mouhamed-Alshlash)
 - [Gabriella Brigitte Lohy](https://github.com/GabriellaLohy)
