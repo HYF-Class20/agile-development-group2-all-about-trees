@@ -5,6 +5,10 @@
 In this group we respect each others. We says please and thank you. </br> We do
 have a minor language barrier problem with one of the team member but it's not
 stopping us to understand, do the best for the team and support each others.
+</br> </br> We always have to attend the daily meeting with prepared topic and
+updating our work to other members. </br> We have a strict rules that only
+members with active contribution may stay in the group because we respect hard
+work and dedication. </br>
 
 ---
 
