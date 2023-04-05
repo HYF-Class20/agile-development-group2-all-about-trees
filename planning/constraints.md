@@ -6,6 +6,9 @@ from being done or limits the range of possibilities in a particular situation.
 
 ## External </br>
 
+- **Working hours** </br> It's difficult to combine our group's availability
+  hours because we all have a fulltime job and most of us have a family.
+
 ## Internal: Voluntary </br>
 
 - **Operating System** </br> Our group members are working with different
