@@ -1,30 +1,32 @@
 # Constraints
 
-Some boundaries around our project.
+_def:_ </br> Constraint is a limitation or restriction that prevents something
+from being done or limits the range of possibilities in a particular situation.
+</br></br>
 
-## External
+## External </br>
 
-<!--
-  constraints coming from the outside that your team has no control over. these may include:
-  - project deadlines
-  - UI design or color schemes
-  - technologies (sometimes a client will tell you what to use)
--->
+- **Sprint** </br> We are working 4 weeks in Agile Developments, divided in 4
+  sprints. Our deadline for each sprint is Friday. </br>
+- **Audience's Hardware** </br> There are different hardware with a range of
+  specifications used by the audience. It could affect the display of the
+  website on their devices. </br> </br>
 
-## Internal: Involuntary
+## Internal: Voluntary </br>
 
-<!--
-  constraints that come from within your team, and you have no control over. they may include:
-  - each of your individual skill levels
-  - amount of time available to work on the project
--->
+- **Operating System** </br> Our group members are working with different
+  operation system. Some of us working with Mac, Safari, Linux, Windows. </br>
+  </br>
 
-## Internal: Voluntary
+## Availability </br>
 
-<!--
-  constraints that your team decided on to help scope the project. they may include:
-  - coding style & conventions
-  - agree on a code review checklist for the project repository
-  - the number of hours you want to spend working
-  - only using the colors black and white
--->
+Mostly our member are available in the evening. We choose for a weekly
+availability timetable because some of us is working in shifts. </br> </br>
+
+## Studying Time </br>
+
+Coming soon.. </br>
+
+## Code of conduct </br>
+
+Coming soon..
