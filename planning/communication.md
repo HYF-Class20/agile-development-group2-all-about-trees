@@ -2,7 +2,9 @@
 
 ## Group Rules
 
-Coming soon..
+In this group we respect each others. We says please and thank you. </br> We do
+have a minor language barrier problem with one of the team member but it's not
+stopping us to understand, do the best for the team and support each others.
 
 ---
 
@@ -39,7 +41,6 @@ How often will we get in touch on each channel, and what we will discuss there:
 | Gabrella | 10-12 ; 18-24 | 10-12 ; 18-24 | 10-15 ; 18-24 | 10-15 ; 18-01 | 10-15 ; 20-21 |    x     |   x    |
 | Ali      |    17 - 22    |    17 - 22    |    17 - 22    |    17 - 22    |    17 - 22    |    x     |   x    |
 | Cemal    |   Whole day   |   Whole day   |   Whole day   |   Whole day   |   Whole day   |    x     |   x    |
-| Mouhamed |   Whole day   |   Whole day   |   Whole day   |   Whole day   |   Whole day   |    x     |   x    |
 | Gopi     |     9-11      |     16-22     |     10-12     |       X       |     13-18     |    x     |   x    |
 
 ## How many hours everyone has per day in week 1
@@ -48,7 +49,6 @@ How often will we get in touch on each channel, and what we will discuss there:
 - Gopi: 3h
 - Gabriella: 5 - 8h
 - Cemal: Whole day
-- Mouhamed: Whole day
 
 ## Asking for Help
 
