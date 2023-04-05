@@ -6,27 +6,32 @@ from being done or limits the range of possibilities in a particular situation.
 
 ## External </br>
 
-- **Sprint** </br> We are working 4 weeks in Agile Developments, divided in 4
-  sprints. Our deadline for each sprint is Friday. </br>
-- **Audience's Hardware** </br> There are different hardware with a range of
-  specifications used by the audience. It could affect the display of the
-  website on their devices. </br> </br>
-
 ## Internal: Voluntary </br>
 
 - **Operating System** </br> Our group members are working with different
   operation system. Some of us working with Mac, Safari, Linux, Windows. </br>
   </br>
+- **Technology**
+  - Node.js version 19.8.1
+  - VSCode
+  - Oh my zsh </br>
+- **Deadline** Our deadline for each task is Friday
 
 ## Availability </br>
 
 Mostly our member are available in the evening. We choose for a weekly
 availability timetable because some of us is working in shifts. </br> </br>
 
-## Studying Time </br>
+## Studying Time (change each week) </br>
 
-Coming soon.. </br>
+- Ali: 5h
+- Gopi: 3h
+- Gabriella: 5 - 8h
+- Cemal: Whole day
 
 ## Code of conduct </br>
 
-Coming soon..
+In this group we respect each others. We says please and thank you. </br> We do
+have a minor language barrier problem with one of the team member but it's not
+stopping us to understand, do the best for the team and support each others.
+</br>
