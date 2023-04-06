@@ -1,7 +1,8 @@
 # Backlog
 
-Based on our users stories **Lucy** and **Axel** our **all about trees** website is an interactive website and its content is depending on the user it self,
-our website creating strategy is divided in 3 main Parts
+Based on our users stories **Lucy** and **Axel** our **all about trees** website
+is an interactive website and its content is depending on the user it self, our
+website creating strategy is divided in 3 main Parts
 
 ## Must-Haves
 
@@ -21,8 +22,7 @@ our website creating strategy is divided in 3 main Parts
 
 ## Could-Haves
 
-> would be really cool  if there's
+> would be really cool if there's
 
 - [ ] in Footer links to wiki,fun facts
 - [ ] animated background
-  
