@@ -5,7 +5,7 @@ because retrospective is about behavior not people! </br>
 
 ## Stop Doing
 
-- Not responding on Slack
+- Not responding on Slackgit
 - Not giving an update about work project </br>
 
 ## Continue Doing
