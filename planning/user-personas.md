@@ -2,31 +2,32 @@
 
 ---
 
-## University Student
+![lucy](/planning/assets/personalucy.jpg)
 
-![user persona Axel](/planning/assets/personaalex.jpg)
+## lucy
 
-### Interest
+- **Bio**: lucy is a 9 years old school student / scouts member
+- **Needs/Goals**: lucy needs to learn about trees life in a fun and interactive
+  way
+- **Frustrations** : she did not find an interactive website to learn about
+  trees life
+- **Scenario 1**:lucy back from summer camp she need to tell her science teacher
+  about trees in simple way
+- **Features**: lucy as a user she needs to watch videos,check some interactive
+  diagrams and have a some fun random fun facts about trees
 
-- Big interest in growth and development of Palm Trees. </br>
-- concerned about the impact of deforestation on the country's biodiversity and
-  ecosystems. </br>
+---
 
-### **Goals**
+![personaalex](https://user-images.githubusercontent.com/124396156/229545830-127f5ddc-6d41-49a5-b6e7-522f6e09bebd.jpg)
 
-His goal is to explore the ecological significance of palm trees in Indonesia
-and their contribution to the country's economy. </br> Poverty in Indonesia is
-driving deforestation. Axel want to raise awareness about the negative impact of
-deforestation on Indonesia's environment and natural resources. </br>Also to
-identify ways of mitigating the environmental damage caused by palm oil
-production in Indonesia. </br>
+## AXEL
 
-### **Frustration**
-
-To find reliable sources of information about Indonesia's forests and the impact
-of palm oil production on the environment are hard. Also overcoming the lack of
-public awareness and political will to address the environmental challenges
-facing Indonesia. </br>He is struggeling to find an effective strategies to
-promote sustainable palm oil production and consumption in Indonesia.
-
-<!-- more personas ... -->
+- **Bio**: Axel is 23 years old Environmental Researcher
+- **Needs/Goals**: need to raise people awareness about the impact of
+  deforestation on the country's biodiversity and ecosystems.
+- **Frustrations** : He is struggling to find an simple/effective website about
+  trees life
+- **Scenario 1**: Axel is using our reliable web site to make a small
+  presentation to the locals in a remote area about trees life
+- **Features**:Axel as a user need a to read articles ,search feature, reach the
+  socialmedia accounts
