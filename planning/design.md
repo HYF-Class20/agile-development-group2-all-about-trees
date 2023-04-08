@@ -1,10 +1,13 @@
 # Design
 
-We decided to have a simple page, we didn't make plan colors or anything else.
-Prettiness is not a priority for this project.
+ALL About trees Wireframe
 
----
+## Homepage HTML SEMANTIC TAGS
 
-> [wireframe source](https://excalidraw.com/#json=5697932045058048,50g_dMeek8cnpk9dH1teGg)
+![Homepage1](https://github.com/HYF-Class20/agile-development-group2-all-about-trees/blob/wireframe/planning/assets/Wireframe%200%20.svg)
+</br>
 
-![wireframe](./wireframe.svg)
+## Homepage HTML WITH DETAILS </br>
+
+![Homepage2](https://github.com/HYF-Class20/agile-development-group2-all-about-trees/blob/wireframe/planning/assets/Wireframe%201%20.svg)
+</br>
