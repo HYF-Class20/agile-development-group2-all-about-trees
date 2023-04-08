@@ -1,26 +1,11 @@
 # Design
 
-We decided to have a simple page, we didn't make plan colors or anything else.
-Prettiness is not a priority for this project.
+ALL About trees Wireframe
 
----
+## Homepage HTML SEMANTIC TAGS
 
-## Homepage
+![Homepage1](https://github.com/HYF-Class20/agile-development-group2-all-about-trees/blob/wireframe/planning/assets/Wireframe%200%20.svg) </br>
 
-![Homepage](/planning/assets/wireframe-1.jpg) </br>
+## Homepage HTML WITH DETAILS </br>
 
-## Second Page </br>
-
-![Second Page](/planning/assets/wireframe-2.jpg) </br>
-
-## Third Page </br>
-
-![Third Page](/planning/assets/wireframe-3.jpg) </br>
-
-## Fourth Page </br>
-
-![Fourth Page](/planning/assets/wireframe-4.jpg) </br>
-
-## Closing Page </br>
-
-![Closing Page](/planning/assets/wireframe-5.jpg) </br>
+![Homepage2](https://github.com/HYF-Class20/agile-development-group2-all-about-trees/blob/wireframe/planning/assets/Wireframe%201%20.svg) </br>
