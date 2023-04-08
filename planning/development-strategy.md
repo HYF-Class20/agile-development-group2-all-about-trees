@@ -1,4 +1,4 @@
-## Development Strategy
+# Development Strategy
 
 _def:_ </br> A process of researching and identifying strategic options,
 selecting the most promising and deciding how resources will be allocated across
@@ -6,7 +6,7 @@ the organisation to achieve objectives
 
 ---
 
-# All-about-trees
+## All-about-trees
 
 ## User Story Dependencies
 
