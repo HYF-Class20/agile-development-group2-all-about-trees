@@ -2,21 +2,24 @@
 
 ## Must Haves
 
-- **Title**  
+- **Title**
+
   - As a user I can read the title of the page
-    - [ ]  create page title
+    - [ ] create page title
 
 - **Home Page elements**
 
-  - as  a user i can reach different parts of the website
-    - [ ]  create nav section thats contains multi links
-  
+  - as a user i can reach different parts of the website
+
+    - [ ] create nav section thats contains multi links
+
   - As a user I can learn about trees
-    - [ ]  create section that contains the website description
-  
+
+    - [ ] create section that contains the website description
+
   - As a user I can learn a lot more trees
-    - [ ]  there is an aside with links for further reading
-  
+    - [ ] there is an aside with links for further reading
+
 ## Should Haves
 
 - **Home Page**
