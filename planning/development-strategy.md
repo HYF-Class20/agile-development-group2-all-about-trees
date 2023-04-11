@@ -6,60 +6,157 @@ the organisation to achieve objectives
 
 ---
 
-Based on our
-[user persona](https://github.com/HYF-Class20/agile-development-group2-all-about-trees/blob/master/planning/user-personas.md)
-and
-[backlog](https://github.com/HYF-Class20/agile-development-group2-all-about-trees/blob/master/planning/backlog.md)
-we have created a
-[design or wireframe](https://github.com/HYF-Class20/agile-development-group2-all-about-trees/blob/master/planning/design.md).
-In this section we want to share our development strategy.
+## All-about-trees
 
-## 0.Setup
+## User Story Dependencies
 
-- [x] Creating user persona
-- [x] List their needs as backlog
-- [x] Create a wireframe based on user stories
+[Story Dependency Diagram](https://excalidraw.com/#json=zx507BPjuQiDZVSqYzr3v,ek-uu6Hp_lrnioS0gXBzXg)
 
 ---
 
-- As a user I want to see:
-  - A clear title
-  - Logo
-  - A nice homepage with a brief and interesting information about trees
-  - Page that will send me to a more detail or specific information
-  - Member/developer team
-  - Contact page
+## WIREFRAME
 
-## Title
+![wireframe](/planning/assets/wireframe.jpg)
 
-All About Three
+---
 
-## Header
+## 0.Setup
 
-- [ ] An eye-catching header with title 'All About Trees'
-- [ ] Brief information of our project
+- create a new repo form the template `template-html-css`
+- add collaborators
+- turn on github pages and give them `write` access
+- protect `master` branch
+- turn on live url:
+  [Agile Development Group 2](https://hyf-class20.github.io/agile-development-group2-all-about-trees/)
 
-## Logo
+---
 
-- [ ] Create a professional logo related to trees
+## 1. Title
 
-## Homepage
+### As a user I want to see the title of the page
 
-- [ ] Put a green or trees background
-- [ ] Descibe our project and goals
-- [ ] Put our company partner to make it looks professional and reliable
-- [ ] Put our company social media
+- This user story is developed on branch `9-title`.
+- This branch is merged to `master` branch after completion.
 
-## Navbar
+### html
 
-- [ ] Age / User catergories seection; </br> We customised the website based on
-      their needs; Children Educational purpose, Nature Researcher
-- [ ] Selection for blog, video's, images, etc
-- [ ] We make it stands out by using animated hover
+- add `header` tag
+- add `h1` for the page title
 
-## Closing Page
+### css
 
-- [ ] Our license/copyright
-- [ ] Contact us; Name of our company, address, contact number, email and
-      website link
-- [ ] Hover
+- add class`centered-item` to the `header`
+- make the display `flex` and add `padding`
+
+## 2. Logos
+
+### As a user I want to see logos of the page
+
+- This user story is developed on branch `10-logos`.
+- This branch is merged to `master` branch after completion.
+
+### html
+
+- add two `img`
+
+### css
+
+- add class `ouncy-img` to both `img`
+- add `width` and `height`
+- add `keyframes`
+- add `hover`
+
+## 3. Navigation links
+
+### As a user I want to see navigation links
+
+- This user story is developed on branch `11-navLinks`.
+- This branch is merged to `master` branch after completion.
+
+### html
+
+- add two `nav`
+- add a `div` parent
+- add `a`
+
+### css
+
+- add class `bottom-divider` to both `nav`
+- add `border`
+- add class `spaced-items` to the parent `div`
+- make display `flex` and add `padding`
+
+## 4. Description
+
+### As a user I want to see description of the page
+
+- This user story is developed on branch `12-description`.
+- This branch is merged to `master` branch after completion.
+
+### html
+
+- add `section`
+- add `p`
+
+### css
+
+- add id `summary-info` to both `section`
+- add class `fascinating-words` to `p`
+- make the font family `fantasy`
+
+## 5. Extra link
+
+### As a user I want to see extra link one the page
+
+- This user story is developed on branch `13-extraLink`.
+- This branch is merged to `master` branch after completion.
+
+### html
+
+- add `aside`
+- add `p`
+- add `a`
+
+### css
+
+- add id `extra-info` and class `aside-info` to both `aside`
+- add `width`, `padding`, `margin`, `box-shadow`, `float`
+- add class `aside-text` to `p`
+- change font family to `monospace`
+
+## 6. More links
+
+### As a user I want to see more links the page
+
+- This user story is developed on branch `14-moreLinks`.
+- This branch is merged to `master` branch after completion.
+
+### html
+
+- add `article`
+- add `p`
+- add `ul`
+- add `li`
+- add `a`
+
+### css
+
+- add id `main-info"` to `article`
+- add class `interesting-things` to `ul`
+- make list style type `square`
+
+## 7. Social media links
+
+### As a user I want to see social media links to contact the website owner
+
+- This user story is developed on branch `15-socialMedia`.
+- This branch is merged to `master` branch after completion.
+
+### html
+
+- add `footer`
+- add `a`
+
+### css
+
+- add class `top-divider` and `spaced-items` to `footer`
