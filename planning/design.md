@@ -1,13 +1,20 @@
 # Design
 
-ALL About trees Wireframe
+ALL About Loruki Wireframe
 
 ## Homepage HTML SEMANTIC TAGS
 
-![Homepage1](https://github.com/HYF-Class20/agile-development-group2-all-about-trees/blob/wireframe/planning/assets/wireframe-0.svg)
+![Homepage](https://github.com/HYF-Class20/agile-development-group2-all-about-trees/blob/wireframe/planning/assets/home.jpg)
 </br>
 
-## Homepage HTML WITH DETAILS </br>
+## Features HTML SEMANTIC TAGS
 
-![Homepage2](https://github.com/HYF-Class20/agile-development-group2-all-about-trees/blob/wireframe/planning/assets/wireframe-1.svg)
+![Features](https://github.com/HYF-Class20/agile-development-group2-all-about-trees/blob/wireframe/planning/assets/features.jpg)
 </br>
+
+## Docs HTML SEMANTIC TAGS
+
+![Docs](https://github.com/HYF-Class20/agile-development-group2-all-about-trees/blob/wireframe/planning/assets/docs.jpg)
+</br>
+
+
