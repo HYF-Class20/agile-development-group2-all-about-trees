@@ -16,5 +16,3 @@ ALL About Loruki Wireframe
 
 ![Docs](https://github.com/HYF-Class20/agile-development-group2-all-about-trees/blob/planning/design-md/planning/assets/docs.jpg?raw=true)
 </br>
-
-
